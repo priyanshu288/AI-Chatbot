@@ -11,7 +11,7 @@ const Main = () => {
     return (
         <div className='main'>
            <div className="nav">
-            <p>Scarlett</p>
+            <p>InsightIQ</p>
             <img src={assets.user_icon} alt="" />
            </div>
            <div className="main-container">
@@ -74,7 +74,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    Scarlett may display inaccurate information. Please verify with a reliable source.
+                    InsightIQ may display inaccurate information. Please verify with a reliable source.
                 </p>
             </div>
            </div>
